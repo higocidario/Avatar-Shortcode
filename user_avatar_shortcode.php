@@ -1,4 +1,4 @@
- <?php
+<?php
 /*
 Plugin Name: Avatar Shortcode
 Plugin Script: user_avatar_shortcode.php
